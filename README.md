@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# React-Task-Board-Project
+A React-based Campus Task Board to manage student assignments, quizzes, and tasks with features to add, complete, delete, and filter tasks. Built using React Hooks (useState), JSX, and CSS.
+>>>>>>> 8ed98f1b86be4045da1896c598038a89d2471f46
